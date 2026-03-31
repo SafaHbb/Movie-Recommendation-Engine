@@ -1,0 +1,11 @@
+Requirements · TXT
+Copy
+
+streamlit
+pandas
+numpy
+rapidfuzz
+sentence-transformers
+scikit-learn
+requests
+torch
